@@ -1,0 +1,9 @@
+ruff
+black
+mypy
+jupyterlab
+ptpython
+scikit-image
+seaborn
+polars
+numpy
