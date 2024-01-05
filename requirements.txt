@@ -1,9 +1,11 @@
-ruff
 black
-mypy
 jupyterlab
-ptpython
-scikit-image
-seaborn
-polars
+mypy
 numpy
+polars
+pre-commit
+ptpython
+ruff
+scikit-image
+scipy
+seaborn
