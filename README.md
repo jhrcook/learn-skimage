@@ -16,8 +16,15 @@ pre-commit install
 
 ### User Guide
 
-|    | Notes                                                                                      |
-|----|:-------------------------------------------------------------------------------------------|
-| 4  | [A crash course on NumPy for images](./user-guide/04_numpy-for-images.ipynb)               |
-| 9  | [Image adjustment: transforming image content](./user-guide/09_image-adjustment.ipynb)     |
-| 10 | [Geometrical transformations of images](./user-guide/10_geometrical-transformations.ipynb) |
+|Notebook                                                                                        |
+|:-----------------------------------------------------------------------------------------------|
+| [4. A crash course on NumPy for images](./user-guide/04_numpy-for-images.ipynb)                |
+| [9. Image adjustment: transforming image content](./user-guide/09_image-adjustment.ipynb)      |
+| [10. Geometrical transformations of images](./user-guide/10_geometrical-transformations.ipynb) |
+
+### Examples
+
+| Notebook                                                    | Original article |
+|:------------------------------------------------------------|:-----------------|
+| [Canny edge detector](./examples/canny-edge-detector.ipynb) | [link](https://scikit-image.org/docs/stable/auto_examples/edges/plot_canny.html)
+| [Straight line Hough transform](./examples/straight-line-hough-transform.ipynb) | [link](https://scikit-image.org/docs/stable/auto_examples/edges/plot_line_hough_transform.html) |
